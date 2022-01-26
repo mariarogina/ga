@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-     GA l
+     Google Analytics Template
       </header>
     </div>
   );
